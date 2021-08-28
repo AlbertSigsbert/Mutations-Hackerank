@@ -21,12 +21,9 @@ string *character*: the character to insert
 The first line contains a string, *string*.\
 The next line contains an integer *position*, the index location and a string *character*, separated by a space.
 
-**Sample Input**
-
-STDIN           Function
-          
-abracadabra     s = 'abracadabra'
-5 k             position = 5, character = 'k'
+**Sample Input**\         
+abracadabra     
+5 k             
 
 **Sample Output**\
 abrackdabra
