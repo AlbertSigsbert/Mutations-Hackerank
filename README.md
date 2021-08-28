@@ -10,8 +10,8 @@ Read a given string, change the character at a given index and then print the mo
 **Function Description**\
 *mutate_string* has the following parameters:
 
-string *string*: the string to change
-int *position*: the index to insert the character at
+string *string*: the string to change\
+int *position*: the index to insert the character at\
 string *character*: the character to insert
 
 **Returns**\
