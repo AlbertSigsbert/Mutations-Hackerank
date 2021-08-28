@@ -7,7 +7,7 @@ You are given an immutable string, and you want to make changes to it.
 **Task**\
 Read a given string, change the character at a given index and then print the modified string.
 
-**Function Description**
+**Function Description**\
 *mutate_string* has the following parameters:
 
 string *string*: the string to change
