@@ -24,9 +24,9 @@ The next line contains an integer *position*, the index location and a string *c
 **Sample Input**
 
 STDIN           Function
------           --------
+          
 abracadabra     s = 'abracadabra'
 5 k             position = 5, character = 'k'
 
-**Sample Output**/
+**Sample Output**\
 abrackdabra
