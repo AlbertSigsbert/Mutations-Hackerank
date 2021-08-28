@@ -21,7 +21,7 @@ string *character*: the character to insert
 The first line contains a string, *string*.\
 The next line contains an integer *position*, the index location and a string *character*, separated by a space.
 
-**Sample Input** \         
+**Sample Input**         
 abracadabra     
 5 k             
 
